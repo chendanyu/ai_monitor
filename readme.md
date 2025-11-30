@@ -54,6 +54,8 @@
 
    方案二：web_api_db.py，将数据直接保存到mysql
 
+   强烈建议采用方案一。
+
 4. Kafka 消费者服务 (kafka_consumer_service.py)
 
 5. 测试客户端 (test_client.py)
